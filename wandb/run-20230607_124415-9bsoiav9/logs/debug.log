@@ -196,3 +196,28 @@ config: {}
 2023-06-07 13:10:37,326 INFO    MainThread:28802 [jupyter.py:_save_ipynb():390] looking for notebook: stock_pred_seq.ipynb
 2023-06-07 13:10:37,854 INFO    MainThread:28802 [wandb_init.py:_pause_backend():401] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x126630f10>
 2023-06-07 13:10:37,854 INFO    MainThread:28802 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-07 13:28:48,480 INFO    MainThread:28802 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-07 13:28:48,489 INFO    MainThread:28802 [jupyter.py:_save_ipynb():390] looking for notebook: stock_pred_seq.ipynb
+2023-06-07 13:28:48,908 INFO    MainThread:28802 [wandb_init.py:_pause_backend():401] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x1226ddb20>
+2023-06-07 13:28:48,908 INFO    MainThread:28802 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-07 13:30:02,006 INFO    MainThread:28802 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-07 13:30:14,400 INFO    MainThread:28802 [jupyter.py:_save_ipynb():390] looking for notebook: stock_pred_seq.ipynb
+2023-06-07 13:30:14,823 INFO    MainThread:28802 [wandb_init.py:_pause_backend():401] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x123337a30>
+2023-06-07 13:30:14,824 INFO    MainThread:28802 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-08 10:43:15,259 INFO    MainThread:28802 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-08 10:43:26,484 INFO    MainThread:28802 [jupyter.py:_save_ipynb():390] looking for notebook: stock_pred_seq.ipynb
+2023-06-08 10:43:26,921 INFO    MainThread:28802 [wandb_init.py:_pause_backend():401] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x12669ab20>
+2023-06-08 10:43:26,921 INFO    MainThread:28802 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-08 10:44:28,457 INFO    MainThread:28802 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-08 10:44:42,388 INFO    MainThread:28802 [jupyter.py:_save_ipynb():390] looking for notebook: stock_pred_seq.ipynb
+2023-06-08 10:44:42,834 INFO    MainThread:28802 [wandb_init.py:_pause_backend():401] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x1266980a0>
+2023-06-08 10:44:42,834 INFO    MainThread:28802 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-08 10:47:11,580 INFO    MainThread:28802 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-08 10:47:18,765 INFO    MainThread:28802 [jupyter.py:_save_ipynb():390] looking for notebook: stock_pred_seq.ipynb
+2023-06-08 10:47:19,270 INFO    MainThread:28802 [wandb_init.py:_pause_backend():401] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x126e87eb0>
+2023-06-08 10:47:19,270 INFO    MainThread:28802 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-08 10:47:26,900 INFO    MainThread:28802 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-08 10:47:26,908 INFO    MainThread:28802 [jupyter.py:_save_ipynb():390] looking for notebook: stock_pred_seq.ipynb
+2023-06-08 10:47:27,388 INFO    MainThread:28802 [wandb_init.py:_pause_backend():401] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x1272cdbe0>
+2023-06-08 10:47:27,388 INFO    MainThread:28802 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-08 10:47:37,031 INFO    MainThread:28802 [wandb_init.py:_resume_backend():408] resuming backend

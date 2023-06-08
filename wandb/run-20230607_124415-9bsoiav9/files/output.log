@@ -90,3 +90,68 @@ torch.Size([1, 1024])
 <class 'transformers.modeling_outputs.BaseModelOutputWithPoolingAndCrossAttentions'>
 <class 'torch.Tensor'>
 torch.Size([1, 1024])
+<class 'torch.Tensor'>
+689
+689
+689
+torch.Size([689, 5, 8])
+Some weights of the model checkpoint at roberta-large were not used when initializing RobertaModel: ['lm_head.layer_norm.bias', 'lm_head.dense.weight', 'lm_head.dense.bias', 'lm_head.decoder.weight', 'lm_head.bias', 'lm_head.layer_norm.weight']
+- This IS expected if you are initializing RobertaModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing RobertaModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+0it [00:00, ?it/s]/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_28802/3665585654.py:43: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'ids': torch.tensor(input_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_28802/3665585654.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'mask': torch.tensor(attention_masks, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_28802/3665585654.py:45: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'token_type_ids': torch.tensor(token_type_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_28802/3665585654.py:46: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'targets': torch.tensor(y_train[index], dtype=torch.long)
+0it [00:07, ?it/s]
+Some weights of the model checkpoint at roberta-large were not used when initializing RobertaModel: ['lm_head.layer_norm.bias', 'lm_head.dense.weight', 'lm_head.dense.bias', 'lm_head.decoder.weight', 'lm_head.bias', 'lm_head.layer_norm.weight']
+- This IS expected if you are initializing RobertaModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing RobertaModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+0it [00:00, ?it/s]/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_28802/3665585654.py:43: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'ids': torch.tensor(input_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_28802/3665585654.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'mask': torch.tensor(attention_masks, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_28802/3665585654.py:45: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'token_type_ids': torch.tensor(token_type_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_28802/3665585654.py:46: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'targets': torch.tensor(y_train[index], dtype=torch.long)
+0it [00:07, ?it/s]
+Some weights of the model checkpoint at roberta-large were not used when initializing RobertaModel: ['lm_head.layer_norm.bias', 'lm_head.dense.weight', 'lm_head.dense.bias', 'lm_head.decoder.weight', 'lm_head.bias', 'lm_head.layer_norm.weight']
+- This IS expected if you are initializing RobertaModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing RobertaModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+0it [00:00, ?it/s]/Users/visriv/Library/Python/3.9/lib/python/site-packages/transformers/tokenization_utils_base.py:2364: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_28802/3665585654.py:43: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'ids': torch.tensor(input_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_28802/3665585654.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'mask': torch.tensor(attention_masks, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_28802/3665585654.py:45: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'token_type_ids': torch.tensor(token_type_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_28802/3665585654.py:46: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'targets': torch.tensor(y_train[index], dtype=torch.long)
+0it [00:09, ?it/s]
+<class 'torch.Tensor'>
+tensor([[[-0.1807, -0.0385,  0.0585,  ...,  0.3354, -0.1886,  0.2424],
+         [-0.1815, -0.2275, -0.0691,  ...,  0.4626, -0.1492,  0.2333],
+         [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000],
+         ...,
+         [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000],
+         [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000],
+         [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000]]],
+       grad_fn=<CopySlices>)
+Some weights of the model checkpoint at roberta-large were not used when initializing RobertaModel: ['lm_head.layer_norm.bias', 'lm_head.dense.weight', 'lm_head.dense.bias', 'lm_head.decoder.weight', 'lm_head.bias', 'lm_head.layer_norm.weight']
+- This IS expected if you are initializing RobertaModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing RobertaModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at roberta-large were not used when initializing RobertaModel: ['lm_head.layer_norm.bias', 'lm_head.dense.weight', 'lm_head.dense.bias', 'lm_head.decoder.weight', 'lm_head.bias', 'lm_head.layer_norm.weight']
+- This IS expected if you are initializing RobertaModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing RobertaModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+0it [00:00, ?it/s]/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_28802/3665585654.py:43: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'ids': torch.tensor(input_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_28802/3665585654.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'mask': torch.tensor(attention_masks, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_28802/3665585654.py:45: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'token_type_ids': torch.tensor(token_type_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_28802/3665585654.py:46: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
