@@ -1,0 +1,482 @@
+Some weights of the model checkpoint at roberta-large were not used when initializing RobertaModel: ['lm_head.bias', 'lm_head.dense.weight', 'lm_head.dense.bias', 'lm_head.layer_norm.weight', 'lm_head.layer_norm.bias', 'lm_head.decoder.weight']
+- This IS expected if you are initializing RobertaModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing RobertaModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+0it [00:00, ?it/s]/Users/visriv/Library/Python/3.9/lib/python/site-packages/transformers/tokenization_utils_base.py:2364: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:43: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'ids': torch.tensor(input_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'mask': torch.tensor(attention_masks, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:45: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'token_type_ids': torch.tensor(token_type_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:46: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'targets': torch.tensor(y_train[index], dtype=torch.long)
+torch.Size([1, 20, 1024])
+y_pred: tensor([[ 0.1370,  0.0461, -0.1471]], grad_fn=<AddmmBackward0>)
+0it [00:13, ?it/s]
+Some weights of the model checkpoint at roberta-large were not used when initializing RobertaModel: ['lm_head.bias', 'lm_head.dense.weight', 'lm_head.dense.bias', 'lm_head.layer_norm.weight', 'lm_head.layer_norm.bias', 'lm_head.decoder.weight']
+- This IS expected if you are initializing RobertaModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing RobertaModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+0it [00:00, ?it/s]/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:43: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'ids': torch.tensor(input_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'mask': torch.tensor(attention_masks, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:45: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'token_type_ids': torch.tensor(token_type_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:46: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'targets': torch.tensor(y_train[index], dtype=torch.long)
+torch.Size([1, 20, 1024])
+y_pred: tensor([[ 0.1370,  0.0461, -0.1472]], grad_fn=<AddmmBackward0>)
+0it [00:18, ?it/s]
+Some weights of the model checkpoint at roberta-large were not used when initializing RobertaModel: ['lm_head.bias', 'lm_head.dense.weight', 'lm_head.dense.bias', 'lm_head.layer_norm.weight', 'lm_head.layer_norm.bias', 'lm_head.decoder.weight']
+- This IS expected if you are initializing RobertaModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing RobertaModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+0it [00:00, ?it/s]/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:43: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'ids': torch.tensor(input_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'mask': torch.tensor(attention_masks, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:45: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'token_type_ids': torch.tensor(token_type_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:46: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'targets': torch.tensor(y_train[index], dtype=torch.long)
+torch.Size([1, 20, 1024])
+y_pred: tensor([[ 0.1370,  0.0462, -0.1470]], grad_fn=<AddmmBackward0>)
+1it [00:14, 14.06s/it]
+torch.Size([1, 20, 1024])
+
+2it [00:30, 15.62s/it]
+torch.Size([1, 20, 1024])
+
+3it [00:45, 15.41s/it]
+torch.Size([1, 20, 1024])
+
+4it [01:01, 15.59s/it]
+torch.Size([1, 20, 1024])
+
+5it [01:16, 15.16s/it]
+torch.Size([1, 20, 1024])
+
+6it [01:30, 15.01s/it]
+torch.Size([1, 20, 1024])
+
+7it [01:45, 14.83s/it]
+torch.Size([1, 20, 1024])
+
+8it [01:59, 14.59s/it]
+torch.Size([1, 20, 1024])
+
+9it [02:13, 14.51s/it]
+torch.Size([1, 20, 1024])
+
+10it [02:28, 14.65s/it]
+torch.Size([1, 20, 1024])
+
+11it [02:43, 14.83s/it]
+torch.Size([1, 20, 1024])
+
+12it [02:58, 14.83s/it]
+torch.Size([1, 20, 1024])
+
+13it [03:14, 15.05s/it]
+torch.Size([1, 20, 1024])
+
+14it [03:31, 15.53s/it]
+torch.Size([1, 20, 1024])
+
+15it [03:47, 15.69s/it]
+torch.Size([1, 20, 1024])
+
+16it [04:02, 15.62s/it]
+torch.Size([1, 20, 1024])
+
+17it [04:17, 15.52s/it]
+torch.Size([1, 20, 1024])
+
+18it [04:32, 15.26s/it]
+torch.Size([1, 20, 1024])
+
+19it [04:47, 15.18s/it]
+torch.Size([1, 20, 1024])
+
+20it [05:02, 15.21s/it]
+torch.Size([1, 20, 1024])
+
+21it [05:17, 15.06s/it]
+torch.Size([1, 20, 1024])
+
+22it [05:31, 14.69s/it]
+torch.Size([1, 20, 1024])
+
+23it [05:44, 14.32s/it]
+torch.Size([1, 20, 1024])
+
+24it [05:59, 14.32s/it]
+torch.Size([1, 20, 1024])
+
+25it [06:14, 14.56s/it]
+torch.Size([1, 20, 1024])
+
+26it [06:28, 14.35s/it]
+torch.Size([1, 20, 1024])
+
+27it [06:42, 14.42s/it]
+torch.Size([1, 20, 1024])
+
+28it [06:56, 14.21s/it]
+torch.Size([1, 20, 1024])
+
+29it [07:10, 14.16s/it]
+torch.Size([1, 20, 1024])
+
+30it [07:24, 14.08s/it]
+torch.Size([1, 20, 1024])
+
+31it [07:38, 14.10s/it]
+torch.Size([1, 20, 1024])
+
+32it [07:52, 14.10s/it]
+torch.Size([1, 20, 1024])
+
+33it [08:07, 14.30s/it]
+torch.Size([1, 20, 1024])
+
+34it [08:21, 14.24s/it]
+torch.Size([1, 20, 1024])
+
+35it [08:35, 14.20s/it]
+torch.Size([1, 20, 1024])
+
+36it [08:49, 14.11s/it]
+torch.Size([1, 20, 1024])
+
+37it [09:04, 14.46s/it]
+torch.Size([1, 20, 1024])
+
+38it [09:19, 14.48s/it]
+torch.Size([1, 20, 1024])
+
+39it [09:36, 15.25s/it]
+torch.Size([1, 20, 1024])
+
+40it [09:55, 16.35s/it]
+torch.Size([1, 20, 1024])
+
+41it [10:11, 16.49s/it]
+torch.Size([1, 20, 1024])
+
+42it [10:28, 16.38s/it]
+torch.Size([1, 20, 1024])
+
+43it [10:42, 15.90s/it]
+torch.Size([1, 20, 1024])
+
+44it [10:58, 15.87s/it]
+torch.Size([1, 20, 1024])
+
+45it [11:13, 15.50s/it]
+torch.Size([1, 20, 1024])
+
+46it [11:27, 14.98s/it]
+torch.Size([1, 20, 1024])
+
+47it [11:40, 14.57s/it]
+torch.Size([1, 20, 1024])
+
+48it [11:54, 14.30s/it]
+torch.Size([1, 20, 1024])
+
+49it [12:07, 14.01s/it]
+torch.Size([1, 20, 1024])
+
+49it [12:21, 15.12s/it]
+Some weights of the model checkpoint at roberta-large were not used when initializing RobertaModel: ['lm_head.bias', 'lm_head.dense.weight', 'lm_head.dense.bias', 'lm_head.layer_norm.weight', 'lm_head.layer_norm.bias', 'lm_head.decoder.weight']
+- This IS expected if you are initializing RobertaModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing RobertaModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at roberta-large were not used when initializing RobertaModel: ['lm_head.bias', 'lm_head.dense.weight', 'lm_head.dense.bias', 'lm_head.layer_norm.weight', 'lm_head.layer_norm.bias', 'lm_head.decoder.weight']
+- This IS expected if you are initializing RobertaModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing RobertaModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+0it [00:00, ?it/s]/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:43: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'ids': torch.tensor(input_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'mask': torch.tensor(attention_masks, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:45: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'token_type_ids': torch.tensor(token_type_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:46: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'targets': torch.tensor(y_train[index], dtype=torch.long)
+torch.Size([1, 20, 1024])
+y_pred: tensor([[-0.1098, -0.1235,  0.0401]], grad_fn=<AddmmBackward0>)
+1it [00:16, 16.15s/it]
+torch.Size([1, 20, 1024])
+
+2it [00:31, 15.81s/it]
+torch.Size([1, 20, 1024])
+
+3it [00:46, 15.18s/it]
+torch.Size([1, 20, 1024])
+
+4it [01:01, 15.31s/it]
+torch.Size([1, 20, 1024])
+
+5it [01:17, 15.48s/it]
+torch.Size([1, 20, 1024])
+
+6it [01:33, 15.55s/it]
+torch.Size([1, 20, 1024])
+
+7it [01:49, 15.72s/it]
+torch.Size([1, 20, 1024])
+
+8it [02:03, 15.31s/it]
+torch.Size([1, 20, 1024])
+
+9it [02:17, 14.99s/it]
+torch.Size([1, 20, 1024])
+
+10it [02:32, 14.78s/it]
+torch.Size([1, 20, 1024])
+
+11it [02:47, 14.81s/it]
+torch.Size([1, 20, 1024])
+
+12it [03:01, 14.70s/it]
+torch.Size([1, 20, 1024])
+
+13it [03:15, 14.40s/it]
+torch.Size([1, 20, 1024])
+
+14it [03:31, 14.84s/it]
+torch.Size([1, 20, 1024])
+
+15it [03:46, 15.03s/it]
+torch.Size([1, 20, 1024])
+
+16it [04:00, 14.76s/it]
+torch.Size([1, 20, 1024])
+
+17it [04:14, 14.56s/it]
+torch.Size([1, 20, 1024])
+
+18it [04:30, 14.76s/it]
+torch.Size([1, 20, 1024])
+
+19it [04:44, 14.76s/it]
+torch.Size([1, 20, 1024])
+
+20it [04:59, 14.75s/it]
+torch.Size([1, 20, 1024])
+
+21it [05:14, 14.80s/it]
+torch.Size([1, 20, 1024])
+
+22it [05:29, 14.90s/it]
+torch.Size([1, 20, 1024])
+
+23it [05:44, 15.00s/it]
+torch.Size([1, 20, 1024])
+
+24it [05:59, 15.03s/it]
+torch.Size([1, 20, 1024])
+
+25it [06:14, 14.90s/it]
+torch.Size([1, 20, 1024])
+
+26it [06:29, 14.87s/it]
+torch.Size([1, 20, 1024])
+
+27it [06:44, 14.82s/it]
+torch.Size([1, 20, 1024])
+
+28it [06:58, 14.86s/it]
+torch.Size([1, 20, 1024])
+
+29it [07:13, 14.85s/it]
+torch.Size([1, 20, 1024])
+
+30it [07:28, 14.76s/it]
+torch.Size([1, 20, 1024])
+
+31it [07:43, 14.75s/it]
+torch.Size([1, 20, 1024])
+
+32it [07:59, 15.12s/it]
+torch.Size([1, 20, 1024])
+
+33it [08:14, 15.25s/it]
+torch.Size([1, 20, 1024])
+
+34it [08:30, 15.35s/it]
+torch.Size([1, 20, 1024])
+
+35it [08:46, 15.60s/it]
+torch.Size([1, 20, 1024])
+
+36it [09:01, 15.44s/it]
+torch.Size([1, 20, 1024])
+
+37it [09:16, 15.46s/it]
+torch.Size([1, 20, 1024])
+
+38it [09:32, 15.35s/it]
+torch.Size([1, 20, 1024])
+
+39it [09:46, 15.09s/it]
+torch.Size([1, 20, 1024])
+
+40it [10:01, 14.96s/it]
+torch.Size([1, 20, 1024])
+
+41it [10:17, 15.43s/it]
+torch.Size([1, 20, 1024])
+
+42it [10:33, 15.51s/it]
+torch.Size([1, 20, 1024])
+
+43it [10:49, 15.62s/it]
+torch.Size([1, 20, 1024])
+
+44it [11:04, 15.56s/it]
+torch.Size([1, 20, 1024])
+
+45it [11:19, 15.28s/it]
+torch.Size([1, 20, 1024])
+
+46it [11:34, 15.24s/it]
+torch.Size([1, 20, 1024])
+
+47it [11:49, 15.24s/it]
+torch.Size([1, 20, 1024])
+
+48it [12:03, 14.71s/it]
+torch.Size([1, 20, 1024])
+
+49it [12:16, 14.37s/it]
+torch.Size([1, 20, 1024])
+
+50it [12:30, 14.14s/it]
+torch.Size([1, 20, 1024])
+
+51it [12:43, 13.94s/it]
+torch.Size([1, 20, 1024])
+
+52it [12:57, 13.87s/it]
+torch.Size([1, 20, 1024])
+
+53it [13:12, 14.17s/it]
+torch.Size([1, 20, 1024])
+
+54it [13:29, 15.05s/it]
+torch.Size([1, 20, 1024])
+
+55it [13:44, 14.99s/it]
+torch.Size([1, 20, 1024])
+
+56it [14:00, 15.18s/it]
+torch.Size([1, 20, 1024])
+
+57it [14:15, 15.37s/it]
+torch.Size([1, 20, 1024])
+
+58it [14:31, 15.44s/it]
+torch.Size([1, 20, 1024])
+
+59it [14:48, 16.03s/it]
+torch.Size([1, 20, 1024])
+
+60it [15:06, 16.57s/it]
+torch.Size([1, 20, 1024])
+
+61it [15:22, 16.38s/it]
+torch.Size([1, 20, 1024])
+
+62it [15:38, 16.16s/it]
+torch.Size([1, 20, 1024])
+
+63it [15:54, 16.27s/it]
+torch.Size([1, 20, 1024])
+
+64it [16:11, 16.42s/it]
+torch.Size([1, 20, 1024])
+
+65it [16:25, 15.72s/it]
+torch.Size([1, 20, 1024])
+
+66it [16:39, 15.18s/it]
+torch.Size([1, 20, 1024])
+
+67it [16:55, 15.33s/it]
+torch.Size([1, 20, 1024])
+
+68it [17:10, 15.29s/it]
+torch.Size([1, 20, 1024])
+
+69it [17:24, 14.90s/it]
+torch.Size([1, 20, 1024])
+
+70it [17:38, 14.75s/it]
+torch.Size([1, 20, 1024])
+
+71it [17:53, 14.60s/it]
+torch.Size([1, 20, 1024])
+
+72it [18:07, 14.41s/it]
+torch.Size([1, 20, 1024])
+
+73it [18:21, 14.54s/it]
+torch.Size([1, 20, 1024])
+
+74it [18:36, 14.60s/it]
+torch.Size([1, 20, 1024])
+
+75it [18:50, 14.34s/it]
+torch.Size([1, 20, 1024])
+
+76it [19:04, 14.15s/it]
+torch.Size([1, 20, 1024])
+
+77it [19:17, 14.06s/it]
+torch.Size([1, 20, 1024])
+
+78it [19:32, 14.29s/it]
+torch.Size([1, 20, 1024])
+
+79it [21:20, 42.39s/it]
+torch.Size([1, 20, 1024])
+
+80it [21:38, 34.99s/it]
+torch.Size([1, 20, 1024])
+
+81it [21:53, 28.94s/it]
+torch.Size([1, 20, 1024])
+
+82it [22:07, 24.68s/it]
+torch.Size([1, 20, 1024])
+
+83it [22:21, 21.27s/it]
+torch.Size([1, 20, 1024])
+
+84it [22:34, 18.90s/it]
+torch.Size([1, 20, 1024])
+
+85it [22:47, 17.23s/it]
+torch.Size([1, 20, 1024])
+
+86it [23:01, 16.07s/it]
+torch.Size([1, 20, 1024])
+
+87it [23:14, 15.25s/it]
+torch.Size([1, 20, 1024])
+
+88it [23:28, 14.70s/it]
+torch.Size([1, 20, 1024])
+
+89it [23:41, 14.31s/it]
+torch.Size([1, 20, 1024])
+
+90it [23:54, 14.02s/it]
+torch.Size([1, 20, 1024])
+
+91it [24:09, 14.16s/it]
+torch.Size([1, 20, 1024])
+
+92it [24:24, 14.58s/it]
+torch.Size([1, 20, 1024])
