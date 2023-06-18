@@ -480,3 +480,903 @@ torch.Size([1, 20, 1024])
 
 92it [24:24, 14.58s/it]
 torch.Size([1, 20, 1024])
+
+93it [24:40, 14.84s/it]
+torch.Size([1, 20, 1024])
+
+94it [24:54, 14.68s/it]
+torch.Size([1, 20, 1024])
+
+95it [25:10, 14.90s/it]
+torch.Size([1, 20, 1024])
+
+96it [25:27, 15.52s/it]
+torch.Size([1, 20, 1024])
+
+97it [25:42, 15.55s/it]
+torch.Size([1, 20, 1024])
+
+98it [25:58, 15.50s/it]
+torch.Size([1, 20, 1024])
+
+99it [26:15, 16.03s/it]
+torch.Size([1, 20, 1024])
+
+100it [26:31, 16.14s/it]
+torch.Size([1, 20, 1024])
+
+101it [26:47, 15.99s/it]
+torch.Size([1, 20, 1024])
+
+102it [27:01, 15.56s/it]
+torch.Size([1, 20, 1024])
+
+103it [27:17, 15.52s/it]
+torch.Size([1, 20, 1024])
+
+104it [27:33, 15.60s/it]
+torch.Size([1, 20, 1024])
+
+105it [27:47, 15.21s/it]
+torch.Size([1, 20, 1024])
+
+106it [28:02, 15.08s/it]
+torch.Size([1, 20, 1024])
+
+107it [28:23, 16.82s/it]
+torch.Size([1, 20, 1024])
+
+108it [28:37, 16.07s/it]
+torch.Size([1, 20, 1024])
+
+109it [28:51, 15.34s/it]
+torch.Size([1, 20, 1024])
+
+110it [29:04, 14.78s/it]
+torch.Size([1, 20, 1024])
+
+111it [29:18, 14.40s/it]
+torch.Size([1, 20, 1024])
+
+112it [29:32, 14.34s/it]
+torch.Size([1, 20, 1024])
+
+113it [29:48, 14.81s/it]
+torch.Size([1, 20, 1024])
+
+114it [30:04, 15.20s/it]
+torch.Size([1, 20, 1024])
+
+115it [30:20, 15.38s/it]
+torch.Size([1, 20, 1024])
+
+116it [30:35, 15.54s/it]
+torch.Size([1, 20, 1024])
+
+117it [30:49, 15.08s/it]
+torch.Size([1, 20, 1024])
+
+118it [31:03, 14.68s/it]
+torch.Size([1, 20, 1024])
+
+119it [31:18, 14.64s/it]
+torch.Size([1, 20, 1024])
+
+120it [31:33, 14.68s/it]
+torch.Size([1, 20, 1024])
+
+121it [31:49, 15.24s/it]
+torch.Size([1, 20, 1024])
+
+122it [32:05, 15.55s/it]
+torch.Size([1, 20, 1024])
+
+123it [32:20, 15.17s/it]
+torch.Size([1, 20, 1024])
+
+124it [32:34, 15.05s/it]
+torch.Size([1, 20, 1024])
+
+125it [32:50, 15.29s/it]
+torch.Size([1, 20, 1024])
+
+126it [33:09, 16.36s/it]
+torch.Size([1, 20, 1024])
+
+127it [33:27, 16.92s/it]
+torch.Size([1, 20, 1024])
+
+128it [33:43, 16.58s/it]
+torch.Size([1, 20, 1024])
+
+129it [33:59, 16.42s/it]
+torch.Size([1, 20, 1024])
+
+130it [34:16, 16.41s/it]
+torch.Size([1, 20, 1024])
+
+131it [34:30, 15.89s/it]
+torch.Size([1, 20, 1024])
+
+132it [34:47, 16.24s/it]
+torch.Size([1, 20, 1024])
+
+133it [35:02, 15.85s/it]
+torch.Size([1, 20, 1024])
+
+134it [35:17, 15.41s/it]
+torch.Size([1, 20, 1024])
+
+135it [35:30, 14.85s/it]
+torch.Size([1, 20, 1024])
+
+136it [35:44, 14.48s/it]
+torch.Size([1, 20, 1024])
+
+137it [35:58, 14.27s/it]
+torch.Size([1, 20, 1024])
+
+138it [36:11, 14.06s/it]
+torch.Size([1, 20, 1024])
+
+139it [36:25, 13.89s/it]
+torch.Size([1, 20, 1024])
+
+140it [36:38, 13.89s/it]
+torch.Size([1, 20, 1024])
+
+141it [36:52, 13.78s/it]
+torch.Size([1, 20, 1024])
+
+142it [37:06, 13.73s/it]
+torch.Size([1, 20, 1024])
+
+143it [37:19, 13.71s/it]
+torch.Size([1, 20, 1024])
+
+144it [37:33, 13.69s/it]
+torch.Size([1, 20, 1024])
+
+145it [37:47, 13.72s/it]
+torch.Size([1, 20, 1024])
+
+146it [38:01, 13.74s/it]
+torch.Size([1, 20, 1024])
+
+147it [38:14, 13.74s/it]
+torch.Size([1, 20, 1024])
+
+148it [38:28, 13.70s/it]
+torch.Size([1, 20, 1024])
+
+149it [38:42, 13.69s/it]
+torch.Size([1, 20, 1024])
+
+150it [38:55, 13.60s/it]
+torch.Size([1, 20, 1024])
+
+151it [39:09, 13.60s/it]
+torch.Size([1, 20, 1024])
+
+152it [39:22, 13.56s/it]
+torch.Size([1, 20, 1024])
+
+153it [39:35, 13.51s/it]
+torch.Size([1, 20, 1024])
+
+154it [39:49, 13.49s/it]
+torch.Size([1, 20, 1024])
+
+155it [40:02, 13.48s/it]
+torch.Size([1, 20, 1024])
+
+156it [40:16, 13.42s/it]
+torch.Size([1, 20, 1024])
+
+157it [40:29, 13.39s/it]
+torch.Size([1, 20, 1024])
+
+158it [40:42, 13.41s/it]
+torch.Size([1, 20, 1024])
+
+159it [40:56, 13.44s/it]
+torch.Size([1, 20, 1024])
+
+160it [41:09, 13.40s/it]
+torch.Size([1, 20, 1024])
+
+161it [41:23, 13.40s/it]
+torch.Size([1, 20, 1024])
+
+162it [41:36, 13.47s/it]
+torch.Size([1, 20, 1024])
+
+163it [41:50, 13.54s/it]
+torch.Size([1, 20, 1024])
+
+164it [42:04, 13.57s/it]
+torch.Size([1, 20, 1024])
+
+165it [42:17, 13.57s/it]
+torch.Size([1, 20, 1024])
+
+166it [42:31, 13.61s/it]
+torch.Size([1, 20, 1024])
+
+167it [42:44, 13.57s/it]
+torch.Size([1, 20, 1024])
+
+168it [42:58, 13.58s/it]
+torch.Size([1, 20, 1024])
+
+169it [43:12, 13.62s/it]
+torch.Size([1, 20, 1024])
+
+170it [43:25, 13.56s/it]
+torch.Size([1, 20, 1024])
+
+171it [43:39, 13.56s/it]
+torch.Size([1, 20, 1024])
+
+172it [43:52, 13.52s/it]
+torch.Size([1, 20, 1024])
+
+173it [44:05, 13.51s/it]
+torch.Size([1, 20, 1024])
+
+174it [44:19, 13.52s/it]
+torch.Size([1, 20, 1024])
+
+175it [44:33, 13.60s/it]
+torch.Size([1, 20, 1024])
+
+176it [44:46, 13.60s/it]
+torch.Size([1, 20, 1024])
+
+177it [45:00, 13.62s/it]
+torch.Size([1, 20, 1024])
+
+178it [45:14, 13.65s/it]
+torch.Size([1, 20, 1024])
+
+179it [45:28, 13.77s/it]
+torch.Size([1, 20, 1024])
+
+180it [45:42, 13.88s/it]
+torch.Size([1, 20, 1024])
+
+181it [49:15, 73.52s/it]
+torch.Size([1, 20, 1024])
+
+182it [49:33, 56.90s/it]
+torch.Size([1, 20, 1024])
+
+183it [49:48, 44.51s/it]
+torch.Size([1, 20, 1024])
+
+184it [50:05, 36.03s/it]
+torch.Size([1, 20, 1024])
+
+185it [50:21, 29.98s/it]
+torch.Size([1, 20, 1024])
+
+186it [50:35, 25.34s/it]
+torch.Size([1, 20, 1024])
+
+187it [50:50, 22.37s/it]
+torch.Size([1, 20, 1024])
+
+188it [51:05, 19.99s/it]
+torch.Size([1, 20, 1024])
+
+189it [51:21, 18.83s/it]
+torch.Size([1, 20, 1024])
+
+190it [51:37, 17.87s/it]
+torch.Size([1, 20, 1024])
+
+191it [51:51, 16.76s/it]
+torch.Size([1, 20, 1024])
+
+192it [52:05, 15.86s/it]
+torch.Size([1, 20, 1024])
+
+193it [52:20, 15.77s/it]
+torch.Size([1, 20, 1024])
+
+194it [52:34, 15.14s/it]
+torch.Size([1, 20, 1024])
+
+195it [52:47, 14.67s/it]
+torch.Size([1, 20, 1024])
+
+196it [53:01, 14.35s/it]
+torch.Size([1, 20, 1024])
+
+197it [53:15, 14.17s/it]
+torch.Size([1, 20, 1024])
+
+198it [53:28, 13.96s/it]
+torch.Size([1, 20, 1024])
+
+199it [53:42, 13.80s/it]
+torch.Size([1, 20, 1024])
+
+200it [53:55, 13.73s/it]
+torch.Size([1, 20, 1024])
+
+201it [54:09, 13.73s/it]
+torch.Size([1, 20, 1024])
+
+202it [54:22, 13.64s/it]
+torch.Size([1, 20, 1024])
+
+203it [54:36, 13.60s/it]
+torch.Size([1, 20, 1024])
+
+204it [54:49, 13.57s/it]
+torch.Size([1, 20, 1024])
+
+205it [55:03, 13.54s/it]
+torch.Size([1, 20, 1024])
+
+206it [55:16, 13.51s/it]
+torch.Size([1, 20, 1024])
+
+207it [55:30, 13.54s/it]
+torch.Size([1, 20, 1024])
+
+208it [55:44, 13.56s/it]
+torch.Size([1, 20, 1024])
+
+209it [55:57, 13.52s/it]
+torch.Size([1, 20, 1024])
+
+210it [56:10, 13.51s/it]
+torch.Size([1, 20, 1024])
+
+211it [56:24, 13.48s/it]
+torch.Size([1, 20, 1024])
+
+212it [56:37, 13.45s/it]
+torch.Size([1, 20, 1024])
+
+213it [56:51, 13.44s/it]
+torch.Size([1, 20, 1024])
+
+214it [57:04, 13.44s/it]
+torch.Size([1, 20, 1024])
+
+215it [57:18, 13.50s/it]
+torch.Size([1, 20, 1024])
+
+216it [57:33, 13.89s/it]
+torch.Size([1, 20, 1024])
+
+217it [57:46, 13.82s/it]
+torch.Size([1, 20, 1024])
+
+218it [58:00, 13.68s/it]
+torch.Size([1, 20, 1024])
+
+219it [58:13, 13.66s/it]
+torch.Size([1, 20, 1024])
+
+220it [58:27, 13.63s/it]
+torch.Size([1, 20, 1024])
+
+221it [58:42, 14.14s/it]
+torch.Size([1, 20, 1024])
+
+222it [58:57, 14.34s/it]
+torch.Size([1, 20, 1024])
+
+223it [59:11, 14.29s/it]
+torch.Size([1, 20, 1024])
+
+224it [59:25, 14.31s/it]
+torch.Size([1, 20, 1024])
+
+225it [59:39, 14.15s/it]
+torch.Size([1, 20, 1024])
+
+226it [59:53, 14.03s/it]
+torch.Size([1, 20, 1024])
+
+227it [1:00:07, 13.96s/it]
+torch.Size([1, 20, 1024])
+
+228it [1:00:20, 13.89s/it]
+torch.Size([1, 20, 1024])
+
+229it [1:00:34, 13.88s/it]
+torch.Size([1, 20, 1024])
+
+230it [1:00:48, 13.86s/it]
+torch.Size([1, 20, 1024])
+
+231it [1:01:02, 13.82s/it]
+torch.Size([1, 20, 1024])
+
+232it [1:01:16, 13.81s/it]
+torch.Size([1, 20, 1024])
+
+233it [1:01:30, 13.87s/it]
+torch.Size([1, 20, 1024])
+
+234it [1:01:43, 13.81s/it]
+torch.Size([1, 20, 1024])
+
+235it [1:01:57, 13.78s/it]
+torch.Size([1, 20, 1024])
+
+236it [1:02:11, 13.82s/it]
+torch.Size([1, 20, 1024])
+
+237it [1:02:25, 13.97s/it]
+torch.Size([1, 20, 1024])
+
+238it [1:02:39, 14.06s/it]
+torch.Size([1, 20, 1024])
+
+239it [1:02:54, 14.12s/it]
+torch.Size([1, 20, 1024])
+
+240it [1:03:09, 14.34s/it]
+torch.Size([1, 20, 1024])
+
+241it [1:03:22, 14.13s/it]
+torch.Size([1, 20, 1024])
+
+242it [1:03:37, 14.38s/it]
+torch.Size([1, 20, 1024])
+
+243it [1:03:52, 14.63s/it]
+torch.Size([1, 20, 1024])
+
+244it [1:04:08, 15.05s/it]
+torch.Size([1, 20, 1024])
+
+245it [1:04:24, 15.11s/it]
+torch.Size([1, 20, 1024])
+
+246it [1:04:40, 15.39s/it]
+torch.Size([1, 20, 1024])
+
+247it [1:04:55, 15.38s/it]
+torch.Size([1, 20, 1024])
+
+248it [1:05:11, 15.43s/it]
+torch.Size([1, 20, 1024])
+
+249it [1:05:25, 15.25s/it]
+torch.Size([1, 20, 1024])
+
+250it [1:05:40, 14.95s/it]
+torch.Size([1, 20, 1024])
+
+251it [1:05:55, 15.08s/it]
+torch.Size([1, 20, 1024])
+
+252it [1:06:10, 15.00s/it]
+torch.Size([1, 20, 1024])
+
+253it [1:06:25, 14.91s/it]
+torch.Size([1, 20, 1024])
+
+254it [1:06:39, 14.82s/it]
+torch.Size([1, 20, 1024])
+
+255it [1:06:54, 14.91s/it]
+torch.Size([1, 20, 1024])
+
+256it [1:07:10, 15.02s/it]
+torch.Size([1, 20, 1024])
+
+257it [1:07:24, 14.94s/it]
+torch.Size([1, 20, 1024])
+
+258it [1:07:40, 15.09s/it]
+torch.Size([1, 20, 1024])
+
+259it [1:07:56, 15.40s/it]
+torch.Size([1, 20, 1024])
+
+260it [1:08:10, 15.15s/it]
+torch.Size([1, 20, 1024])
+
+261it [1:08:26, 15.31s/it]
+torch.Size([1, 20, 1024])
+
+262it [1:08:41, 15.21s/it]
+torch.Size([1, 20, 1024])
+
+263it [1:08:56, 15.07s/it]
+torch.Size([1, 20, 1024])
+
+264it [1:09:12, 15.26s/it]
+torch.Size([1, 20, 1024])
+
+265it [1:09:27, 15.41s/it]
+torch.Size([1, 20, 1024])
+
+266it [1:09:42, 15.29s/it]
+torch.Size([1, 20, 1024])
+
+267it [1:09:58, 15.38s/it]
+torch.Size([1, 20, 1024])
+
+268it [1:10:14, 15.68s/it]
+torch.Size([1, 20, 1024])
+
+269it [1:10:30, 15.54s/it]
+torch.Size([1, 20, 1024])
+
+270it [1:10:45, 15.55s/it]
+torch.Size([1, 20, 1024])
+
+271it [1:11:00, 15.48s/it]
+torch.Size([1, 20, 1024])
+
+272it [1:11:16, 15.50s/it]
+torch.Size([1, 20, 1024])
+
+273it [1:11:32, 15.52s/it]
+torch.Size([1, 20, 1024])
+
+274it [1:11:46, 15.32s/it]
+torch.Size([1, 20, 1024])
+
+275it [1:12:02, 15.35s/it]
+torch.Size([1, 20, 1024])
+
+276it [1:12:17, 15.18s/it]
+torch.Size([1, 20, 1024])
+
+277it [1:12:32, 15.15s/it]
+torch.Size([1, 20, 1024])
+
+278it [1:12:47, 15.10s/it]
+torch.Size([1, 20, 1024])
+
+279it [1:13:02, 15.08s/it]
+torch.Size([1, 20, 1024])
+
+280it [1:13:17, 15.08s/it]
+torch.Size([1, 20, 1024])
+
+281it [1:13:32, 15.05s/it]
+torch.Size([1, 20, 1024])
+
+282it [1:13:46, 14.95s/it]
+torch.Size([1, 20, 1024])
+
+283it [1:14:01, 14.92s/it]
+torch.Size([1, 20, 1024])
+
+284it [1:14:17, 15.11s/it]
+torch.Size([1, 20, 1024])
+
+285it [1:14:33, 15.54s/it]
+torch.Size([1, 20, 1024])
+
+286it [1:14:49, 15.60s/it]
+torch.Size([1, 20, 1024])
+
+287it [1:15:06, 16.10s/it]
+torch.Size([1, 20, 1024])
+
+288it [1:15:23, 16.34s/it]
+torch.Size([1, 20, 1024])
+
+289it [1:15:40, 16.45s/it]
+torch.Size([1, 20, 1024])
+
+290it [1:15:57, 16.55s/it]
+torch.Size([1, 20, 1024])
+
+291it [1:16:12, 16.19s/it]
+torch.Size([1, 20, 1024])
+
+292it [1:16:27, 15.83s/it]
+torch.Size([1, 20, 1024])
+
+293it [1:16:42, 15.62s/it]
+torch.Size([1, 20, 1024])
+
+294it [1:16:58, 15.56s/it]
+torch.Size([1, 20, 1024])
+
+295it [1:17:13, 15.43s/it]
+torch.Size([1, 20, 1024])
+
+296it [1:17:28, 15.42s/it]
+torch.Size([1, 20, 1024])
+
+297it [1:17:45, 15.79s/it]
+torch.Size([1, 20, 1024])
+
+298it [1:18:02, 16.27s/it]
+torch.Size([1, 20, 1024])
+
+299it [1:18:19, 16.38s/it]
+torch.Size([1, 20, 1024])
+
+300it [1:18:37, 16.84s/it]
+torch.Size([1, 20, 1024])
+
+301it [1:18:52, 16.44s/it]
+torch.Size([1, 20, 1024])
+
+302it [1:19:07, 15.84s/it]
+torch.Size([1, 20, 1024])
+
+303it [1:19:22, 15.65s/it]
+torch.Size([1, 20, 1024])
+
+304it [1:19:38, 15.79s/it]
+torch.Size([1, 20, 1024])
+
+305it [1:19:53, 15.64s/it]
+torch.Size([1, 20, 1024])
+
+306it [1:20:09, 15.66s/it]
+torch.Size([1, 20, 1024])
+
+307it [1:20:24, 15.44s/it]
+torch.Size([1, 20, 1024])
+
+308it [1:20:40, 15.54s/it]
+torch.Size([1, 20, 1024])
+
+309it [1:20:55, 15.34s/it]
+torch.Size([1, 20, 1024])
+
+310it [1:21:09, 15.19s/it]
+torch.Size([1, 20, 1024])
+
+311it [1:21:23, 14.82s/it]
+torch.Size([1, 20, 1024])
+
+312it [1:21:37, 14.56s/it]
+torch.Size([1, 20, 1024])
+
+313it [1:21:53, 14.77s/it]
+torch.Size([1, 20, 1024])
+
+314it [1:22:07, 14.76s/it]
+torch.Size([1, 20, 1024])
+
+315it [1:22:22, 14.84s/it]
+torch.Size([1, 20, 1024])
+
+316it [1:22:37, 14.86s/it]
+torch.Size([1, 20, 1024])
+
+317it [1:22:52, 14.73s/it]
+torch.Size([1, 20, 1024])
+
+318it [1:23:06, 14.58s/it]
+torch.Size([1, 20, 1024])
+
+319it [1:23:20, 14.43s/it]
+torch.Size([1, 20, 1024])
+
+320it [1:23:34, 14.25s/it]
+torch.Size([1, 20, 1024])
+
+321it [1:23:48, 14.20s/it]
+torch.Size([1, 20, 1024])
+
+322it [1:24:05, 15.05s/it]
+torch.Size([1, 20, 1024])
+
+323it [1:24:22, 15.74s/it]
+torch.Size([1, 20, 1024])
+
+324it [1:24:39, 15.97s/it]
+torch.Size([1, 20, 1024])
+
+325it [1:24:54, 15.84s/it]
+torch.Size([1, 20, 1024])
+
+326it [1:25:09, 15.36s/it]
+torch.Size([1, 20, 1024])
+
+327it [1:25:23, 14.96s/it]
+torch.Size([1, 20, 1024])
+
+328it [1:25:38, 14.94s/it]
+torch.Size([1, 20, 1024])
+
+329it [1:25:52, 14.72s/it]
+torch.Size([1, 20, 1024])
+
+330it [1:26:06, 14.60s/it]
+torch.Size([1, 20, 1024])
+
+331it [1:26:21, 14.81s/it]
+torch.Size([1, 20, 1024])
+
+332it [1:26:37, 15.07s/it]
+torch.Size([1, 20, 1024])
+
+333it [1:26:53, 15.28s/it]
+torch.Size([1, 20, 1024])
+
+334it [1:27:08, 15.33s/it]
+torch.Size([1, 20, 1024])
+
+335it [1:27:23, 15.11s/it]
+torch.Size([1, 20, 1024])
+
+336it [1:27:38, 14.96s/it]
+torch.Size([1, 20, 1024])
+
+337it [1:27:53, 15.06s/it]
+torch.Size([1, 20, 1024])
+
+338it [1:28:08, 15.00s/it]
+torch.Size([1, 20, 1024])
+
+339it [1:28:22, 14.82s/it]
+torch.Size([1, 20, 1024])
+
+340it [1:28:37, 14.87s/it]
+torch.Size([1, 20, 1024])
+
+341it [1:28:53, 15.08s/it]
+torch.Size([1, 20, 1024])
+
+342it [1:29:08, 15.18s/it]
+torch.Size([1, 20, 1024])
+
+343it [1:29:23, 15.21s/it]
+torch.Size([1, 20, 1024])
+
+344it [1:29:39, 15.23s/it]
+torch.Size([1, 20, 1024])
+
+345it [1:29:54, 15.27s/it]
+torch.Size([1, 20, 1024])
+
+346it [1:30:12, 16.02s/it]
+torch.Size([1, 20, 1024])
+
+347it [1:30:27, 15.73s/it]
+torch.Size([1, 20, 1024])
+
+348it [1:30:42, 15.62s/it]
+torch.Size([1, 20, 1024])
+
+349it [1:30:58, 15.67s/it]
+torch.Size([1, 20, 1024])
+
+350it [1:31:14, 15.80s/it]
+torch.Size([1, 20, 1024])
+
+351it [1:31:30, 15.90s/it]
+torch.Size([1, 20, 1024])
+
+352it [1:31:47, 16.15s/it]
+torch.Size([1, 20, 1024])
+
+353it [1:32:03, 16.23s/it]
+torch.Size([1, 20, 1024])
+
+354it [1:32:19, 16.01s/it]
+torch.Size([1, 20, 1024])
+
+355it [1:32:35, 16.00s/it]
+torch.Size([1, 20, 1024])
+
+356it [1:32:50, 15.89s/it]
+torch.Size([1, 20, 1024])
+
+357it [1:33:07, 16.08s/it]
+torch.Size([1, 20, 1024])
+
+358it [1:33:23, 16.00s/it]
+torch.Size([1, 20, 1024])
+
+359it [1:33:39, 15.97s/it]
+torch.Size([1, 20, 1024])
+
+360it [1:33:55, 16.07s/it]
+torch.Size([1, 20, 1024])
+
+361it [1:34:12, 16.23s/it]
+torch.Size([1, 20, 1024])
+
+362it [1:34:28, 16.33s/it]
+torch.Size([1, 20, 1024])
+
+363it [1:34:45, 16.52s/it]
+torch.Size([1, 20, 1024])
+
+364it [1:35:04, 17.28s/it]
+torch.Size([1, 20, 1024])
+
+365it [1:35:22, 17.41s/it]
+torch.Size([1, 20, 1024])
+
+366it [1:35:38, 17.03s/it]
+torch.Size([1, 20, 1024])
+
+367it [1:35:56, 17.18s/it]
+torch.Size([1, 20, 1024])
+
+368it [1:36:12, 17.05s/it]
+torch.Size([1, 20, 1024])
+
+369it [1:36:30, 17.26s/it]
+torch.Size([1, 20, 1024])
+
+370it [1:36:48, 17.40s/it]
+torch.Size([1, 20, 1024])
+
+371it [1:37:05, 17.23s/it]
+torch.Size([1, 20, 1024])
+
+372it [1:37:21, 16.85s/it]
+torch.Size([1, 20, 1024])
+
+373it [1:37:35, 16.27s/it]
+torch.Size([1, 20, 1024])
+
+374it [1:37:50, 15.80s/it]
+torch.Size([1, 20, 1024])
+
+375it [1:38:05, 15.44s/it]
+torch.Size([1, 20, 1024])
+
+376it [1:38:20, 15.34s/it]
+torch.Size([1, 20, 1024])
+
+377it [1:38:37, 15.74s/it]
+torch.Size([1, 20, 1024])
+
+378it [1:38:52, 15.81s/it]
+torch.Size([1, 20, 1024])
+
+379it [1:39:07, 15.53s/it]
+torch.Size([1, 20, 1024])
+
+380it [1:39:22, 15.26s/it]
+torch.Size([1, 20, 1024])
+
+381it [1:39:37, 15.08s/it]
+torch.Size([1, 20, 1024])
+
+382it [1:39:53, 15.48s/it]
+torch.Size([1, 20, 1024])
+
+382it [1:40:09, 15.73s/it]
+Some weights of the model checkpoint at roberta-large were not used when initializing RobertaModel: ['lm_head.bias', 'lm_head.dense.weight', 'lm_head.dense.bias', 'lm_head.layer_norm.weight', 'lm_head.layer_norm.bias', 'lm_head.decoder.weight']
+- This IS expected if you are initializing RobertaModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing RobertaModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at roberta-large were not used when initializing RobertaModel: ['lm_head.bias', 'lm_head.dense.weight', 'lm_head.dense.bias', 'lm_head.layer_norm.weight', 'lm_head.layer_norm.bias', 'lm_head.decoder.weight']
+- This IS expected if you are initializing RobertaModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing RobertaModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+0it [00:00, ?it/s]/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:43: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'ids': torch.tensor(input_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'mask': torch.tensor(attention_masks, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:45: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'token_type_ids': torch.tensor(token_type_ids, dtype=torch.long),
+/var/folders/tw/t5br5nkd2k3f065pr50zxvn80000gn/T/ipykernel_33319/3665585654.py:46: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  'targets': torch.tensor(y_train[index], dtype=torch.long)
+torch.Size([1, 20, 1024])
+y_pred: tensor([[-0.0207, -0.0126, -0.0730]], grad_fn=<AddmmBackward0>)
+1it [00:17, 17.52s/it]
+torch.Size([1, 20, 1024])
+
+2it [00:31, 15.62s/it]
+torch.Size([1, 20, 1024])
+
+3it [00:48, 16.10s/it]
+torch.Size([1, 20, 1024])
+
+4it [01:03, 15.52s/it]
+torch.Size([1, 20, 1024])
+

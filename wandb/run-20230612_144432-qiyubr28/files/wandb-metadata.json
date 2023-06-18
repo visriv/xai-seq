@@ -1,0 +1,41 @@
+{
+    "os": "macOS-12.6.3-x86_64-i386-64bit",
+    "python": "3.9.6",
+    "heartbeatAt": "2023-06-12T09:14:44.574591",
+    "startedAt": "2023-06-12T09:14:32.962021",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "stock_pred_seq.ipynb",
+    "root": "/Users/visriv/Documents/Git/xai-seq",
+    "git": {
+        "remote": "https://github.com/visriv/xai-seq.git",
+        "commit": "2b9c47505d5e2dc7e8d5adfd3fd1bc38e52aa997"
+    },
+    "email": null,
+    "host": "Vishals-MacBook-Pro.local",
+    "username": "visriv",
+    "executable": "/Library/Developer/CommandLineTools/usr/bin/python3",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2600,
+        "min": 2600,
+        "max": 2600
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2600,
+            "min": 2600,
+            "max": 2600
+        }
+    ],
+    "disk": {
+        "total": 465.62699127197266,
+        "used": 20.51349639892578
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
