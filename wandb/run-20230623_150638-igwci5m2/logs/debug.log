@@ -1,0 +1,58 @@
+2023-06-23 15:06:38,975 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Configure stats pid to 51835
+2023-06-23 15:06:38,975 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Loading settings from /Users/visriv/.config/wandb/settings
+2023-06-23 15:06:38,975 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Loading settings from /Users/visriv/Documents/Git/xai-seq/wandb/settings
+2023-06-23 15:06:38,975 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2023-06-23 15:06:38,975 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-06-23 15:06:38,976 INFO    MainThread:51835 [wandb_init.py:_log_setup():492] Logging user logs to /Users/visriv/Documents/Git/xai-seq/wandb/run-20230623_150638-igwci5m2/logs/debug.log
+2023-06-23 15:06:38,976 INFO    MainThread:51835 [wandb_init.py:_log_setup():493] Logging internal logs to /Users/visriv/Documents/Git/xai-seq/wandb/run-20230623_150638-igwci5m2/logs/debug-internal.log
+2023-06-23 15:06:38,976 INFO    MainThread:51835 [wandb_init.py:init():532] calling init triggers
+2023-06-23 15:06:38,976 INFO    MainThread:51835 [wandb_init.py:init():538] wandb.init called with sweep_config: {}
+config: {}
+2023-06-23 15:06:38,976 INFO    MainThread:51835 [wandb_init.py:init():554] re-initializing run, found existing run on stack: d34q13j6
+2023-06-23 15:06:38,978 INFO    MainThread:51835 [wandb_run.py:_finish():1854] finishing run visriv/stock_prediction/d34q13j6
+2023-06-23 15:06:39,014 INFO    MainThread:51835 [jupyter.py:save_history():478] saving 51 cells to _session_history.ipynb
+2023-06-23 15:06:39,016 INFO    MainThread:51835 [wandb_run.py:_config_callback():1250] config_cb ('_wandb', 'session_history') code/_session_history.ipynb None
+2023-06-23 15:06:39,041 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 15:06:39,041 INFO    MainThread:51835 [wandb_init.py:_jupyter_teardown():420] cleaning up jupyter logic
+2023-06-23 15:06:39,041 INFO    MainThread:51835 [wandb_run.py:_atexit_cleanup():2083] got exitcode: 0
+2023-06-23 15:06:39,041 INFO    MainThread:51835 [wandb_run.py:_restore():2066] restore
+2023-06-23 15:06:39,042 INFO    MainThread:51835 [wandb_run.py:_restore():2072] restore done
+2023-06-23 15:06:47,185 INFO    MainThread:51835 [wandb_run.py:_footer_history_summary_info():3442] rendering history
+2023-06-23 15:06:47,188 INFO    MainThread:51835 [wandb_run.py:_footer_history_summary_info():3474] rendering summary
+2023-06-23 15:06:47,194 INFO    MainThread:51835 [wandb_run.py:_footer_sync_info():3398] logging synced files
+2023-06-23 15:06:47,199 INFO    MainThread:51835 [wandb_init.py:init():588] starting backend
+2023-06-23 15:06:47,200 INFO    MainThread:51835 [wandb_init.py:init():592] setting up manager
+2023-06-23 15:06:47,203 INFO    MainThread:51835 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2023-06-23 15:06:47,204 INFO    MainThread:51835 [wandb_init.py:init():599] backend started and connected
+2023-06-23 15:06:47,206 INFO    MainThread:51835 [wandb_run.py:_label_probe_notebook():1203] probe notebook
+2023-06-23 15:06:47,206 INFO    MainThread:51835 [wandb_run.py:_label_probe_notebook():1213] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2023-06-23 15:06:47,206 INFO    MainThread:51835 [wandb_init.py:init():687] updated telemetry
+2023-06-23 15:06:47,256 INFO    MainThread:51835 [wandb_init.py:init():727] communicating run to backend with 60.0 second timeout
+2023-06-23 15:06:48,964 INFO    MainThread:51835 [wandb_run.py:_on_init():2134] communicating current version
+2023-06-23 15:06:49,073 INFO    MainThread:51835 [wandb_run.py:_on_init():2143] got version response upgrade_message: "wandb version 0.15.4 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2023-06-23 15:06:49,073 INFO    MainThread:51835 [wandb_init.py:init():775] starting run threads in backend
+2023-06-23 15:06:49,899 INFO    MainThread:51835 [wandb_run.py:_console_start():2114] atexit reg
+2023-06-23 15:06:49,900 INFO    MainThread:51835 [wandb_run.py:_redirect():1969] redirect: SettingsConsole.WRAP_RAW
+2023-06-23 15:06:49,900 INFO    MainThread:51835 [wandb_run.py:_redirect():2034] Wrapping output streams.
+2023-06-23 15:06:49,900 INFO    MainThread:51835 [wandb_run.py:_redirect():2059] Redirects installed.
+2023-06-23 15:06:49,901 INFO    MainThread:51835 [wandb_init.py:init():817] run started, returning control to user process
+2023-06-23 15:10:13,094 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Configure stats pid to 51835
+2023-06-23 15:10:13,095 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Loading settings from /Users/visriv/.config/wandb/settings
+2023-06-23 15:10:13,095 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Loading settings from /Users/visriv/Documents/Git/xai-seq/wandb/settings
+2023-06-23 15:10:13,095 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2023-06-23 15:10:13,095 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-06-23 15:10:13,095 INFO    MainThread:51835 [wandb_init.py:_log_setup():492] Logging user logs to /Users/visriv/Documents/Git/xai-seq/wandb/run-20230623_151013-bbyv025h/logs/debug.log
+2023-06-23 15:10:13,096 INFO    MainThread:51835 [wandb_init.py:_log_setup():493] Logging internal logs to /Users/visriv/Documents/Git/xai-seq/wandb/run-20230623_151013-bbyv025h/logs/debug-internal.log
+2023-06-23 15:10:13,096 INFO    MainThread:51835 [wandb_init.py:_jupyter_setup():438] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x12c4fe160>
+2023-06-23 15:10:13,096 INFO    MainThread:51835 [wandb_init.py:init():532] calling init triggers
+2023-06-23 15:10:13,096 INFO    MainThread:51835 [wandb_init.py:init():538] wandb.init called with sweep_config: {}
+config: {}
+2023-06-23 15:10:13,096 INFO    MainThread:51835 [wandb_init.py:init():554] re-initializing run, found existing run on stack: igwci5m2
+2023-06-23 15:10:13,099 INFO    MainThread:51835 [wandb_run.py:_finish():1854] finishing run visriv/stock_prediction/igwci5m2
+2023-06-23 15:10:13,099 INFO    MainThread:51835 [wandb_run.py:_atexit_cleanup():2083] got exitcode: 0
+2023-06-23 15:10:13,100 INFO    MainThread:51835 [wandb_run.py:_restore():2066] restore
+2023-06-23 15:10:13,100 INFO    MainThread:51835 [wandb_run.py:_restore():2072] restore done
+2023-06-23 15:10:20,876 INFO    MainThread:51835 [wandb_run.py:_footer_history_summary_info():3442] rendering history
+2023-06-23 15:10:20,877 INFO    MainThread:51835 [wandb_run.py:_footer_history_summary_info():3474] rendering summary
+2023-06-23 15:10:20,883 INFO    MainThread:51835 [wandb_run.py:_footer_sync_info():3398] logging synced files

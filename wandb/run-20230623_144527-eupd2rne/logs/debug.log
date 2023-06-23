@@ -1,0 +1,125 @@
+2023-06-23 14:45:27,563 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Configure stats pid to 51835
+2023-06-23 14:45:27,564 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Loading settings from /Users/visriv/.config/wandb/settings
+2023-06-23 14:45:27,564 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Loading settings from /Users/visriv/Documents/Git/xai-seq/wandb/settings
+2023-06-23 14:45:27,564 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2023-06-23 14:45:27,564 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-06-23 14:45:27,564 INFO    MainThread:51835 [wandb_init.py:_log_setup():492] Logging user logs to /Users/visriv/Documents/Git/xai-seq/wandb/run-20230623_144527-eupd2rne/logs/debug.log
+2023-06-23 14:45:27,564 INFO    MainThread:51835 [wandb_init.py:_log_setup():493] Logging internal logs to /Users/visriv/Documents/Git/xai-seq/wandb/run-20230623_144527-eupd2rne/logs/debug-internal.log
+2023-06-23 14:45:27,564 INFO    MainThread:51835 [wandb_init.py:_jupyter_setup():438] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x10b49ba30>
+2023-06-23 14:45:27,565 INFO    MainThread:51835 [wandb_init.py:init():532] calling init triggers
+2023-06-23 14:45:27,565 INFO    MainThread:51835 [wandb_init.py:init():538] wandb.init called with sweep_config: {}
+config: {}
+2023-06-23 14:45:27,565 INFO    MainThread:51835 [wandb_init.py:init():588] starting backend
+2023-06-23 14:45:27,565 INFO    MainThread:51835 [wandb_init.py:init():592] setting up manager
+2023-06-23 14:45:27,568 INFO    MainThread:51835 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2023-06-23 14:45:27,571 INFO    MainThread:51835 [wandb_init.py:init():599] backend started and connected
+2023-06-23 14:45:27,575 INFO    MainThread:51835 [wandb_run.py:_label_probe_notebook():1203] probe notebook
+2023-06-23 14:45:27,575 INFO    MainThread:51835 [wandb_run.py:_label_probe_notebook():1213] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2023-06-23 14:45:27,575 INFO    MainThread:51835 [wandb_init.py:init():687] updated telemetry
+2023-06-23 14:45:27,625 INFO    MainThread:51835 [wandb_init.py:init():727] communicating run to backend with 60.0 second timeout
+2023-06-23 14:45:28,379 INFO    MainThread:51835 [wandb_run.py:_on_init():2134] communicating current version
+2023-06-23 14:45:28,564 INFO    MainThread:51835 [wandb_run.py:_on_init():2143] got version response upgrade_message: "wandb version 0.15.4 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2023-06-23 14:45:28,564 INFO    MainThread:51835 [wandb_init.py:init():775] starting run threads in backend
+2023-06-23 14:45:29,378 INFO    MainThread:51835 [wandb_run.py:_console_start():2114] atexit reg
+2023-06-23 14:45:29,378 INFO    MainThread:51835 [wandb_run.py:_redirect():1969] redirect: SettingsConsole.WRAP_RAW
+2023-06-23 14:45:29,378 INFO    MainThread:51835 [wandb_run.py:_redirect():2034] Wrapping output streams.
+2023-06-23 14:45:29,378 INFO    MainThread:51835 [wandb_run.py:_redirect():2059] Redirects installed.
+2023-06-23 14:45:29,380 INFO    MainThread:51835 [wandb_init.py:init():817] run started, returning control to user process
+2023-06-23 14:45:29,385 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:45:29,386 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:45:33,703 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:45:37,600 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:45:37,601 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:45:37,613 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:45:37,614 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:45:37,614 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:45:44,932 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:45:44,933 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:45:44,933 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:45:49,689 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:45:51,797 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:45:51,797 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:45:55,126 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:45:55,608 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:45:55,608 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:45:56,655 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:45:56,666 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:45:56,667 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:45:58,335 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:45:58,396 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:45:58,396 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:46:00,687 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:46:00,701 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:46:00,701 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:46:04,946 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:46:04,951 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:46:04,952 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:46:06,132 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:46:06,136 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:46:06,136 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:46:10,983 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:46:11,769 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:46:11,770 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:46:13,380 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:46:13,382 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:46:13,382 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:46:15,809 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:46:16,216 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:46:16,216 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:46:18,088 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:46:18,096 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:46:18,097 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:46:20,789 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:46:20,796 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:46:20,797 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:46:24,403 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:46:24,407 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:46:24,407 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:46:29,205 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:46:29,211 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:46:29,211 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:46:30,892 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:46:30,894 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:46:30,894 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:46:36,256 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:46:36,257 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:46:36,257 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:46:41,904 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:46:52,112 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:46:52,113 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:48:25,156 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:48:35,089 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:48:35,090 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:50:01,129 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:50:10,844 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:50:10,844 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:50:52,171 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:50:52,177 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:50:52,178 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:50:54,035 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:50:54,037 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:50:54,038 INFO    MainThread:51835 [wandb_init.py:_pause_backend():403] pausing backend
+2023-06-23 14:50:56,830 INFO    MainThread:51835 [wandb_init.py:_resume_backend():408] resuming backend
+2023-06-23 14:50:56,842 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Configure stats pid to 51835
+2023-06-23 14:50:56,842 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Loading settings from /Users/visriv/.config/wandb/settings
+2023-06-23 14:50:56,842 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Loading settings from /Users/visriv/Documents/Git/xai-seq/wandb/settings
+2023-06-23 14:50:56,842 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2023-06-23 14:50:56,843 INFO    MainThread:51835 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-06-23 14:50:56,843 INFO    MainThread:51835 [wandb_init.py:_log_setup():492] Logging user logs to /Users/visriv/Documents/Git/xai-seq/wandb/run-20230623_145056-xr2m7y5z/logs/debug.log
+2023-06-23 14:50:56,843 INFO    MainThread:51835 [wandb_init.py:_log_setup():493] Logging internal logs to /Users/visriv/Documents/Git/xai-seq/wandb/run-20230623_145056-xr2m7y5z/logs/debug-internal.log
+2023-06-23 14:50:56,843 INFO    MainThread:51835 [wandb_init.py:init():532] calling init triggers
+2023-06-23 14:50:56,843 INFO    MainThread:51835 [wandb_init.py:init():538] wandb.init called with sweep_config: {}
+config: {}
+2023-06-23 14:50:56,843 INFO    MainThread:51835 [wandb_init.py:init():554] re-initializing run, found existing run on stack: eupd2rne
+2023-06-23 14:50:56,845 INFO    MainThread:51835 [wandb_run.py:_finish():1854] finishing run visriv/stock_prediction/eupd2rne
+2023-06-23 14:50:56,919 INFO    MainThread:51835 [jupyter.py:save_history():478] saving 26 cells to _session_history.ipynb
+2023-06-23 14:50:56,920 INFO    MainThread:51835 [wandb_run.py:_config_callback():1250] config_cb ('_wandb', 'session_history') code/_session_history.ipynb None
+2023-06-23 14:50:56,932 INFO    MainThread:51835 [jupyter.py:_save_ipynb():390] looking for notebook: xai-seq/stock_pred_seq.ipynb
+2023-06-23 14:50:56,932 INFO    MainThread:51835 [wandb_init.py:_jupyter_teardown():420] cleaning up jupyter logic
+2023-06-23 14:50:56,932 INFO    MainThread:51835 [wandb_run.py:_atexit_cleanup():2083] got exitcode: 0
+2023-06-23 14:50:56,933 INFO    MainThread:51835 [wandb_run.py:_restore():2066] restore
+2023-06-23 14:50:56,933 INFO    MainThread:51835 [wandb_run.py:_restore():2072] restore done
+2023-06-23 14:51:03,728 INFO    MainThread:51835 [wandb_run.py:_footer_history_summary_info():3442] rendering history
+2023-06-23 14:51:03,730 INFO    MainThread:51835 [wandb_run.py:_footer_history_summary_info():3474] rendering summary
+2023-06-23 14:51:03,737 INFO    MainThread:51835 [wandb_run.py:_footer_sync_info():3398] logging synced files

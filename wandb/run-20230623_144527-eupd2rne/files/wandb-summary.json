@@ -1,0 +1,1 @@
+{"avg train loss in this batch": 1.2578957080841064, "epoch": 0, "batch_id": 6, "_timestamp": 1687512010.7609138, "_runtime": 283.1888918876648, "_step": 257, "avg train loss in this epoch": 1.0385886430740356, "avg test loss in this batch": 1.043515682220459, "_wandb": {"runtime": 38}}
